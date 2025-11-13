@@ -1,4 +1,4 @@
-## BST Nomes - Árvore Binária de Busca para Nomes
+# BST Nomes - Árvore Binária de Busca para Nomes
 Uma implementação em Java de uma Árvore Binária de Busca (BST) especializada em armazenar e gerenciar nomes de pessoas em ordem alfabética.
 
 # 📋 Descrição
